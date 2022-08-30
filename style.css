@@ -1,0 +1,181 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    margin: 0px;
+}
+#section_1{
+    background-image: url(images/Banner.PNG);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100%;
+    padding-top: 8%;
+}
+.blodline{
+    font-weight: 700;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.para{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 130px;
+}
+.button_1{
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border: none;
+   border-radius: 10px;
+   font-weight: 700;
+   background-color: #FF5959;
+   color: white;
+   margin-left: 700px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+#section_2{
+    margin: 30px;
+}
+#section_3{
+    display:flex;
+    margin: 30px;
+}
+.section_3_div{
+    height: 135px;
+    width: 123px;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-align: center;
+}
+.section_3_h3{
+    color: #707070;
+    font-weight: 700;
+    margin-top: 50px;
+}
+#section_3_div_2{
+    background-color: #FFEEEE;
+    border: 3px solid #FF5959;
+    border-radius: 5px;
+}
+#section_5{
+    margin: 30px;
+}
+#section_6{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.form-control input {
+	border: 0;
+	border-bottom: 3px solid #707070;
+	padding: 15px 0;
+	display: block;
+	font-size: 18px;
+    width: 70%;
+    margin-left: 250px;
+}
+label{
+    color: #707070;
+    font-weight: 700;
+    font-size: 12px;
+    margin-left: 700px;
+}
+
+#div-card{
+    display: flex;
+    margin: 30px;
+}
+#div-partition-1{
+    background-color: #4f9da63a;
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 33%;
+    border-radius: 10px;
+}
+#div-partition-2{
+    background-color: #ff59592e;
+    margin-right: 30px;
+    width: 33%;
+    border-radius: 10px;
+}
+#div-partition-3{
+    background-color: #fff4d67d;
+    width: 33%;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.para_card{
+    padding: 15px;
+    text-align: justify;
+    
+}
+.div-partition img{
+    height: 53px;
+    width: 53px;
+    padding: 15px;
+}
+.partion-card-h1{
+    margin-left: 15px;
+}
+.main_div{
+    display: flex;
+    height: 100px;
+    width: 150px;
+    margin-left: 130px;
+}
+#img_1{
+    margin: 15px;
+}
+#img_2{
+    margin: 15px;
+}
+#img_3{
+    margin: 15px;
+}
+#img_4{
+    margin: 15px;
+}
+#img_5{
+    margin: 15px;
+}
+#form_part{
+    background-color: #FFF4D6;
+    padding-bottom: 80px;
+    height: 200px;
+    width: 809px;
+    margin-left: 350px;
+}
+#email{
+    background-color: #70707055;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+#button_email{
+    border: none;
+    background-color: #FF5959;
+    color: white;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+}
+footer{
+    background: black;
+    display: block;
+    padding-bottom: 20px;
+}
+
+#footer_h1{
+    color:#FF5959;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    margin-top: 15px;
+}
+#footer_para{
+    text-align: center;
+    color: white;
+}
